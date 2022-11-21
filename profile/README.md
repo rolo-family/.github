@@ -1,3 +1,5 @@
 # Rolo
 
-Hi there
+Welcome to Rolo!
+
+Here's how you get started.
